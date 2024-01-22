@@ -6,9 +6,15 @@ practice
 my favourite restaurant is Art of biryani which is located in **LB nager**.it is a favored restaurant known for its delicious **biryani dishes**.This restuarant is famous for their authentic Indian cuisine, particularly their flavorful biryani dishes.
 
 ---
-
- ## DISHES 
+ ## DISHES
+ 
  1. Butter Chicken 
  2. Biryani
  3. dosa
+
+ - lb nager
+ - walmart
+ - marshals
+ 
+
  
