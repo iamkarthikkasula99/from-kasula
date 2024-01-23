@@ -18,9 +18,9 @@ Amma Ani Kothaga" is a beloved Telugu song known for its emotional lyrics and so
 |Amma| They celebrate the unique and irreplaceable bond between a mother and her child, expressing appreciation for the sacrifices and nurturing provided by mothers| sravani|
 ---
 ## My favourite qoutes
->"Motherhood: All love begins and ends there." - Robert Browning  
+>"Motherhood: All love begins and ends there." - *Robert Browning* 
 
->"Motherhood is the greatest thing and the hardest thing." - Ricki Lake
+>"Motherhood is the greatest thing and the hardest thing." - *Ricki Lake*
 
 
 
