@@ -16,6 +16,13 @@ Amma Ani Kothaga" is a beloved Telugu song known for its emotional lyrics and so
 |Amma Amma Neevennela|The title translates to "Oh mother, your moonlight" in English, capturing the emotional and nostalgic essence of the song|achyuth|
 |Amma Manasu|It likely expresses emotions of love and appreciation for the unique bond between a mother and her child|chithra|
 |Amma| They celebrate the unique and irreplaceable bond between a mother and her child, expressing appreciation for the sacrifices and nurturing provided by mothers| sravani|
+---
+## My favourite qoutes
+>"Motherhood: All love begins and ends there." - Robert Browning  
+
+>"Motherhood is the greatest thing and the hardest thing." - Ricki Lake
+
+
 
 
 
