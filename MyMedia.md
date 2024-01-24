@@ -21,8 +21,20 @@ Amma Ani Kothaga" is a beloved Telugu song known for its emotional lyrics and so
 >"Motherhood: All love begins and ends there." - *Robert Browning* 
 
 >"Motherhood is the greatest thing and the hardest thing." - *Ricki Lake*
+---
+# code fencing
+Map a string key to a custom interface in an object.
 
 
+```
+const myTypedObject: Record = {
+  first: {...},
+  second: {...},
+  ...
+};
+```
+
+<https://code.pieces.app/collections/typescript>
 
 
 
